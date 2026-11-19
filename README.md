@@ -120,6 +120,8 @@ industrial-predictive-maintenance-platform/
 ├── documentation/
 └── README.md
 ```
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/94544823-9478-4fc1-9361-a28ba7521203" /><img width="1500" height="844" alt="image" src="https://github.com/user-attachments/assets/2a71619b-9a82-410a-a2e3-6e1f2fa6feb9" />
+
 
 ## Applications
 
